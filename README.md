@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning advanced PHP & API integration  
 - 👯 I’m looking to collaborate on Laravel or full-stack web projects  
 - 💬 Ask me about PHP, Laravel, MySQL, or Git  
-- 📫 How to reach me: nohaelsayed12389@gmail.com  
+- 📫 How to reach me: nohaelsayed12567@gmail.com  
 - ⚡ Fun fact: I love solving real-world problems through code
 
 
