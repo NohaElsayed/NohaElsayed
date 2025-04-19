@@ -1,16 +1,31 @@
-## Hi there 👋
 
-<!--
-**NohaElsayed/NohaElsayed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Noha_Elsayed</h1>
+<h3 align="center">A Web Developer specializing in PHP & Laravel</h3>
 
-Here are some ideas to get you started:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="yourusername" /> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 About Me
+
+- 🔭 I’m currently working on Laravel Projects  
+- 🌱 I’m currently learning advanced PHP & API integration  
+- 👯 I’m looking to collaborate on Laravel or full-stack web projects  
+- 💬 Ask me about PHP, Laravel, MySQL, or Git  
+- 📫 How to reach me: nohaelsayed12389@gmail.com  
+- ⚡ Fun fact: I love solving real-world problems through code
+
+---
+## Languages and Tools:
+
+<!-- README.md -->
+
+### 🚀 Tech Stack
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP" />
+<img src="https://laravel.com/img/logomark.min.svg" height="40" alt="Laravel Logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" />
+</p>
