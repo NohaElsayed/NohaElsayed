@@ -26,8 +26,6 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-## Languages and Tools:
-
 <!-- README.md -->
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" width="40" style="margin-right: 10px;" />
