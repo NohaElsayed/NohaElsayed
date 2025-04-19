@@ -28,5 +28,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" width="40" style="margin-right: 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" width="40" style="margin-right: 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height="40" alt="Docker" width="40" style="margin-right: 10px;" />
-  <img src="https://upload.wikimedia.org/wikipedia/en/6/6a/Ajax_%28programming%29.svg" height="40" alt="AJAX" width="40" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/02/AJAX_logo_by_gengns.svg" height="40" alt="AJAX" width="40" />
+
 </p>
