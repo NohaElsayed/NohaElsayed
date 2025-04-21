@@ -7,7 +7,7 @@
 ### 💻 About Me
 
 - 🔭 I’m currently working on Laravel Projects  
-- 🌱 I’m currently learning advanced PHP & API integration  
+- 🌱 I’m currently learning React & Vue
 - 👯 I’m looking to collaborate on Laravel or full-stack web projects  
 - 💬 Ask me about PHP, Laravel, MySQL, or Git  
 - 📫 How to reach me: nohaelsayed12567@gmail.com  
