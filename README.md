@@ -14,9 +14,6 @@
 - ⚡ Fun fact: I love solving real-world problems through code
 
 
-
-<h3 align="left">Languages and Tools:</h3>
-
 <!-- README.md -->
  ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **Languages and Tools:**  
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,php,laravel,vite,nodejs,firebase,git,github,vscode,postman,stackoverflow&perline=13)](#)
